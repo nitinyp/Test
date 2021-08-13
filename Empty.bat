@@ -1,1 +1,1 @@
-echo empty file
+echo empty file yes
